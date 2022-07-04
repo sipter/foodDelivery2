@@ -1,0 +1,166 @@
+.MuiBox-root {
+  background-color: blue;
+}
+
+// * {
+//   margin: 0;
+//   padding: 0;
+//   box-sizing: border-box;
+// }
+
+// html {
+//   font-size: 62.5%;
+// }
+
+// .header {
+//   .imgNav {
+//     width: 100%;
+//     height: 35rem;
+//     object-fit: cover;
+//     position: absolute;
+//   }
+
+//   .basket:hover {
+//     cursor: pointer;
+//   }
+
+//   .basket {
+//     margin-right: 10px;
+//   }
+//   .basketBox {
+//     display: none;
+//   }
+
+//   .nav-bar {
+//     ul {
+//       display: flex;
+//       flex-direction: row;
+//       justify-content: space-around;
+//       font-size: 2rem;
+//       width: 50%;
+//       margin: 0 auto;
+//       background-color: #97d4f1;
+//       height: 5.5rem;
+
+//       li {
+//         list-style-type: none;
+//         text-decoration: none;
+//         margin-top: 1.5%;
+//       }
+
+//       li:hover {
+//         color: #edbd2d;
+//       }
+//     }
+//   }
+// }
+
+// .salads,
+// .main-dish,
+// .dessert,
+// .menu {
+//   width: 50%;
+//   margin: 0 auto;
+//   display: flex;
+//   flex-direction: column;
+//   justify-content: center;
+//   align-items: center;
+
+//   div {
+//     border: solid #2373a3;
+//     width: 100%;
+//     height: 20%;
+//     display: flex;
+//     flex-direction: column;
+//     align-items: flex-start;
+//     margin: 8px auto;
+//     padding: 10px;
+//     h2 {
+//       font-size: 2.5rem;
+//     }
+
+//     p {
+//       font-size: 1.8rem;
+//     }
+
+//     button {
+//       height: 30px;
+//       width: 100px;
+//       font-size: 1.7rem;
+//       background: transparent;
+//       border: 1px solid #2373a3;
+//     }
+//     button:hover {
+//       border: 2px solid #2373a3;
+//       background-color: #2373a3;
+//       color: white;
+//     }
+
+//     h2,
+//     p,
+//     button {
+//       margin-top: 6px;
+//     }
+//   }
+
+//   .salad1,
+//   .salad2,
+//   .salad3,
+//   .salad4,
+//   .salad5,
+//   .dish1,
+//   .dish2,
+//   .dish3,
+//   .dish4,
+//   .dish5,
+//   .dessert1,
+//   .dessert2,
+//   .dessert3,
+//   .menu1,
+//   .menu2,
+//   .menu3 {
+//     border-width: 2px 2px 2px 2px;
+//     border-radius: 40% 2% 12% 1%/4% 45% 6% 95%;
+//     //https://9elements.com/blog/css-border-radius/
+//     //transform: rotate(2deg);
+//   }
+// }
+
+// .App {
+//   text-align: center;
+// }
+
+// .App-logo {
+//   height: 40vmin;
+//   pointer-events: none;
+// }
+
+// @media (prefers-reduced-motion: no-preference) {
+//   .App-logo {
+//     animation: App-logo-spin infinite 20s linear;
+//   }
+// }
+
+// .App-header {
+//   background-color: #282c34;
+//   min-height: 100vh;
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+//   justify-content: center;
+//   font-size: calc(10px + 2vmin);
+//   color: white;
+// }
+
+// .App-link {
+//   color: #61dafb;
+// }
+
+// @keyframes App-logo-spin {
+//   from {
+//     transform: rotate(0deg);
+//   }
+//   to {
+//     transform: rotate(360deg);
+//   }
+// }
